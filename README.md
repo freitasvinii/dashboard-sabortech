@@ -1,3 +1,6 @@
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/32ea7396-1414-4f63-9f09-cac118c7d913" />
+
+
 # 📊 Dashboard Logístico de Notas Fiscais | SaborTech Alimentos
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
